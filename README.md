@@ -1,5 +1,4 @@
 <h3 align="center">Hi, I'm Hélitto S. Ferreira.</h3>
-<p align="center">19yo / Brazil</p>
 
 <h6 align="center">
 I'm Cybersecurity Student, currently studying<br>Web Development and Hacking Tools.
@@ -12,5 +11,5 @@ I'm Cybersecurity Student, currently studying<br>Web Development and Hacking Too
 </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bloodzera&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=bloodzera&theme=dark" alt="readme-stats">
 </div>
