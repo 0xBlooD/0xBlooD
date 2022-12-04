@@ -12,6 +12,3 @@ I'm Cybersecurity Student, currently studying<br>Web Development and Hacking Too
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bloodzera&theme=dark" alt="readme-stats">
-<br />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bloodzera&theme=dark&ring=DADADA&currStreakLabel=DADADA&fire=DADADA&dates=DADADA&stroke=DADADA&currStreakNum=DADADA&sideNums=DADADA&sideLabels=DADADA&border=DADADA" alt="readme-streaks">
-</div>
