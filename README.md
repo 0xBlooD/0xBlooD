@@ -11,4 +11,4 @@ I'm Cybersecurity Student, currently studying<br>Web Development and Hacking Too
 </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bloodzera&theme=dark" alt="readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=0xBlooD&theme=dark" alt="readme-stats">
