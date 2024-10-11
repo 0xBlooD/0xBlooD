@@ -19,7 +19,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&color=FFFFFF&background=0D1117&center=true&vCenter=true&repeat=false&width=500&height=25&lines=Contact+me!" alt="Typing SVG" />
   </a>
 </div>
-<img src="assets/steam.svg" width="24" height="24" alt="Steam" />
+<div align="center">
+  <img src="assets/steam.svg" width="24" height="24" alt="Steam" />
+  <img src="assets/linkedin.svg" width="24" height="24" alt="LinkedIn" />
+  <img src="assets/email.svg" width="24" height="24" alt="E-Mail" />
+</div>
 
 <br />
 
