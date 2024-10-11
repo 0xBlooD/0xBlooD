@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&color=FFFFFF&background=0D1117&center=true&vCenter=true&repeat=false&width=500&height=25&lines=Some+things+I'm+currently+using!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&color=FFFFFF&background=0D1117&center=true&vCenter=true&repeat=false&width=500&height=25&lines=Some+things+I'm+currently+using:" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&color=FFFFFF&background=0D1117&center=true&vCenter=true&repeat=false&width=500&height=25&lines=Contact+me!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&color=FFFFFF&background=0D1117&center=true&vCenter=true&repeat=false&width=500&height=25&lines=You+can+find+me+at:" alt="Typing SVG" />
   </a>
 </div>
 <div align="center">
