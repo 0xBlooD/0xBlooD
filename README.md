@@ -23,7 +23,7 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/steam.svg" target="_blank">
+  <a href="https://steamcommunity.com/id/__oie__/" target="_blank">
     <img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/steam.svg" width="24" height="24" alt="Steam" />
   </a>
   <a href="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/linkedin.svg" target="_blank">
