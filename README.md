@@ -13,13 +13,13 @@
 
 <br />
 
-<div align="center" width="24" height="24">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&color=FFFFFF&background=0D1117&center=true&vCenter=true&repeat=false&width=500&height=25&lines=Contact+me!" alt="Typing SVG" />
   </a>
 </div>
 <div align="center">
-  <a href="https://www.google.com"><img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/steam.svg" alt="Steam" /></a>
+  <a href="https://www.google.com"><img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/steam.svg" alt="Steam" width="24" height="24" /></a>
   
   <img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/linkedin.svg" width="24" height="24" alt="LinkedIn" />
   <img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/email.svg" width="24" height="24" alt="E-Mail" />
