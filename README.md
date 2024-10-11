@@ -19,7 +19,9 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/steam.svg" width="24" height="24" alt="Steam" />
+  <a href="https://steamcommunity.com/id/__oie__/">
+    <img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/steam.svg" width="24" height="24" alt="Steam" />
+  </a>
   <img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/linkedin.svg" width="24" height="24" alt="LinkedIn" />
   <img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/email.svg" width="24" height="24" alt="E-Mail" />
 </div>
