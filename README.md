@@ -20,9 +20,9 @@
   </a>
 </div>
 <div align="center">
-  <img src="assets/steam.svg" width="24" height="24" alt="Steam" />
-  <img src="assets/linkedin.svg" width="24" height="24" alt="LinkedIn" />
-  <img src="assets/email.svg" width="24" height="24" alt="E-Mail" />
+  <img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/steam.svg" width="24" height="24" alt="Steam" />
+  <img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/linkedin.svg" width="24" height="24" alt="LinkedIn" />
+  <img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/email.svg" width="24" height="24" alt="E-Mail" />
 </div>
 
 <br />
