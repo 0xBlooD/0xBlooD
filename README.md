@@ -1,13 +1,16 @@
-
 <div align="center">
-  <a target="_blank" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=FFFFFF&background=0D1117&center=true&vCenter=true&random=true&width=125&height=25&lines=Eae!;Hello!;%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86+%EF%BC%81" alt="Typing SVG" /></a>
-  <a target="_blank" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&color=FFFFFF&background=0D1117&center=true&vCenter=true&repeat=false&height=25&lines=I'm+H%C3%A9litto+Souza+Ferreira" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=FFFFFF&background=0D1117&center=true&vCenter=true&random=true&width=125&height=25&lines=Eae!;Hello!;%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86+%EF%BC%81" alt="Typing SVG" />
+  </a>
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&color=FFFFFF&background=0D1117&center=true&vCenter=true&repeat=false&height=25&lines=I'm+H%C3%A9litto+Souza+Ferreira" alt="Typing SVG" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <a target="_blank" href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&color=FFFFFF&background=0D1117&center=true&vCenter=true&repeat=false&width=500&height=25&lines=Some+things+I'm+currently+using!" alt="Typing SVG" />
   </a>
 </div>
@@ -15,24 +18,31 @@
 <br />
 
 <div align="center">
-  <a target="_blank" href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&color=FFFFFF&background=0D1117&center=true&vCenter=true&repeat=false&width=500&height=25&lines=Contact+me!" alt="Typing SVG" />
   </a>
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/steam.svg" width="24" height="24" alt="Steam" />
-  <img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/linkedin.svg" width="24" height="24" alt="LinkedIn" />
-  <img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/email.svg" width="24" height="24" alt="E-Mail" />
+  <a href="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/steam.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/steam.svg" width="24" height="24" alt="Steam" />
+  </a>
+  <a href="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/linkedin.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/linkedin.svg" width="24" height="24" alt="LinkedIn" />
+  </a>
+  <a href="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/email.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/email.svg" width="24" height="24" alt="E-Mail" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <a target="_blank" href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&color=FFFFFF&background=0D1117&center=true&vCenter=true&repeat=false&width=500&height=25&lines=A+4Fun+game!" alt="Typing SVG" />
   </a>
 </div>
 <div align="center">
-  <a target="_blank" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&duration=1&color=0D1117&background=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=25&lines=I+hope+you+enjoy+it!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&duration=1&color=0D1117&background=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=25&lines=I+hope+you+enjoy+it!" alt="Typing SVG" />
   </a>
 </div>
