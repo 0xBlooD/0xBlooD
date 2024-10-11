@@ -19,9 +19,7 @@
   </a>
 </div>
 <div align="center">
-  <a href="https://steamcommunity.com/id/__oie__/">
-    <img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/steam.svg" alt="Steam" width="24" height="24" />
-  </a>
+  <a href="https://steamcommunity.com/id/__oie__/"><img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/steam.svg" alt="Steam" width="24" height="24" /></a>
   <img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/linkedin.svg" width="24" height="24" alt="LinkedIn" />
   <img src="https://raw.githubusercontent.com/0xBlooD/0xBlooD/master/assets/email.svg" width="24" height="24" alt="E-Mail" />
 </div>
