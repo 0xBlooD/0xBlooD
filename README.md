@@ -16,14 +16,14 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=0xBlooD&show_icons=false&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xBlooD&layout=compact"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=0xBlooD&show_icons=false"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xBlooD&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=0xBlooD&show_icons=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xBlooD&layout=compact" />
   </picture>
 </div>
 
