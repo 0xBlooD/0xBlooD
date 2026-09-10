@@ -14,9 +14,11 @@
 <br />
 
 <div align="center">
+  <picture>
     <source
       srcset="https://github-stats-extended.vercel.app/api/top-langs?username=0xBlooD&layout=compact&hide_title=true&langs_count=4&theme=transparent"
     />
+  </picture>
 </div>
 
 <br />
