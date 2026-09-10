@@ -14,17 +14,9 @@
 <br />
 
 <div align="center">
-  <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xBlooD&layout=compact"
-      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=0xBlooD&layout=compact&hide_title=true&langs_count=4&theme=transparent"
     />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xBlooD&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xBlooD&layout=compact" />
-  </picture>
 </div>
 
 <br />
