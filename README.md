@@ -48,6 +48,12 @@
   </a>
 </div>
 <div align="center">
+  <a href="https://0xBlooD.github.io/ge-mu/">
+    <img src="./board.svg" alt="Ligue 4 Comunitário - Clique para Jogar" />
+  </a>
+  <p>👆 <em>Clique no tabuleiro para fazer a sua jogada pelo site!</em></p>
+</div>
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&duration=1&color=0D1117&background=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=25&lines=I+hope+you+enjoy+it!" alt="Typing SVG" />
   </a>
 </div>
